@@ -183,6 +183,9 @@ cython_debug/
 # next.js
 /.next/
 /out/
+frontend/myapp/.next
+.next
+.next/
 
 # production
 /build
